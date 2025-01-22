@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+*Always studying, always working, always tired*
+
+Ryan Smith is a bartender, a naval nuclear power veteran, an artist, and a full-time student at ASU studying Human Systems Engineering with a focus in user experience.
+When Ryan isn't tirelessly working towards his goals, he is spending time with his friends and family, or taking cat naps with his siamese cat, Alfredo.
+After graduating, Ryan intends to work in user experience research or design, preferably on a work-visa in Europe.
+Ryan has a wide breadth of experience due to the variety of work he has done in the past and hopes to meld these with all of the new skills he is adding to his repertoire in the future to become a person capable of providing creative solutions to a diverse range of complex and novel problems.
+
+Here is my "cat tax"
+![alfredo-paintbrushes](https://github.com/user-attachments/assets/80a93b53-e678-434a-a1e2-eeaea4424133)
+
 <!--
 **rlsmit64/rlsmit64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
